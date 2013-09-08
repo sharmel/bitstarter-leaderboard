@@ -114,5 +114,8 @@ global.db.sequelize.sync().complete(function(err) {
 		cb(null);
 	    }
 	]);
+	
+	
+	//test
     }
 });
